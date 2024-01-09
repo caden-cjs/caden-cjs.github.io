@@ -1,0 +1,8 @@
+[book]
+authors = ["caden"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[output.html.playground]
+editable = true
